@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+	
+    <AutoCompleteTextView android:id="@+id/autoCompleteSongSearch"
+        android:completionThreshold="1"
+        android:layout_width="match_parent"
+        android:layout_height="30dip"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dip"
+        android:layout_marginLeft="6dip"
+        android:layout_marginRight="6dip"
+        android:dropDownWidth="200dip"
+        android:textColor="#000"
+        android:maxLines="1"
+        android:background="@color/white"
+    />
+    
+    
+    <ListView android:id="@+id/lstSong"
+        android:layout_below="@id/autoCompleteSongSearch"
+        android:background="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#ff242424"
+        android:dividerHeight="1dip"
+        android:listSelector="@drawable/list_selector">
+        
+    </ListView>
+
+</RelativeLayout>

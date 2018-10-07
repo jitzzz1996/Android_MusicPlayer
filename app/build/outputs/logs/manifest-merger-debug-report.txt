@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:70-111
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:3:29-54
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-43
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:15-40
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:7:1-75
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:7:18-73
+application
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:11:5-28:19
+	android:label
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:11:52-84
+	android:icon
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:11:18-51
+activity#com.coreprogrammers.musicplayer.GitsPlayerActivity
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:13:9-18:20
+	android:label
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:13:86-118
+	android:configChanges
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:13:119-169
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:13:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.coreprogrammers.musicplayer.PlayListActivity
+ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:22:9-25:20
+	android:theme
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:22:83-136
+	android:name
+		ADDED from /home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:22:19-82

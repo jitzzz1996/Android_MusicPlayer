@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jitesh/AndroidStudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "151,98,57",
+                        "endColumns": "49,51,39",
+                        "endOffsets": "196,145,92"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,157",
+                        "endColumns": "49,51,39",
+                        "endOffsets": "100,152,192"
+                    }
+                },
+                {
+                    "source": "/home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "197,255",
+                        "endColumns": "57,55",
+                        "endOffsets": "250,306"
+                    }
+                },
+                {
+                    "source": "/home/jitesh/AndroidStudioProjects/MusicPlayer/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,7,6,8",
+                        "startColumns": "5,4,4,4,4",
+                        "startOffsets": "121,64,239,175,338",
+                        "endColumns": "53,54,97,62,58",
+                        "endOffsets": "169,114,332,233,392"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "311,364,419,517,574",
+                        "endColumns": "52,54,97,56,58",
+                        "endOffsets": "359,414,512,569,628"
+                    }
+                }
+            ]
+        }
+    ]
+}
